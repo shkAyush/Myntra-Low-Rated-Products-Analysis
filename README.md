@@ -14,7 +14,6 @@ Perform data cleaning, transformation, and analysis to identify:
 ---
 
 ## 🛠 Tools Used  
-- **SQL Server**: Data Cleaning, View Creation, Aggregation  
 - **Power BI**: Visualization & Dashboarding  
 
 ---
