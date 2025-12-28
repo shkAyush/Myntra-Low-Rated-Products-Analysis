@@ -2,13 +2,6 @@
 # 📊 Myntra-Analysis  
 **Analysis on Myntra Products Database using SQL Server & Power BI**
 
----
-
-## 📁 Dataset  
-- Sourced from [Kaggle - Myntra Products Dataset](https://www.kaggle.com/datasets/ronakbokaria/myntra-products-dataset)  
-- Uploaded by **Ronak Bokaria**  
-- Last updated: **May 4, 2023**  
-- Total records: **1,060,213**
 
 ---
 
